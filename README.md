@@ -11,3 +11,5 @@
 **el objetivo es destruir el nexo enemigo**
 
 **el ganador obtiene experiencia**
+
+**Y premios de RP**
