@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(32, 196, 218);
+}
+
+
+.cajaprimera{
+    width: 200px;
+    height: 150px;
+    background: red;
+    border: 2px solid;
+    margin-bottom: 7mm;
+}
+
+.cajasegunda{
+    width: 95%;
+    height: 150px;
+    background: yellowgreen;
+    border-radius: 50px;
+    border-style: dashed; color: red;
+    margin-bottom: 1mm;
+}
+
+.cajatercera{
+    width: 200px;
+    height: 150px;
+    background: orangered;
+    border: ridge;
+    margin: auto;
+}
+
+.cajacuarta{
+    width: 200px;
+    height: 150px;
+    background: palevioletred;
+    border-style: outset; color: white;
+    margin-left: 80%;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+}
+
+.cajaquinta{
+    width: 400px;
+    height: 150px;
+    background: palegreen;
+    border-style: dashed solid;
+}
+
+.cajasexta{
+    width: 200px;
+    height: 150px;
+    background: maroon;
+    margin-left: 80%;
+    border-style: double solid; color: white; 
+    border-bottom-left-radius: 70px;
+    border-top-left-radius: 70px; 
+}
