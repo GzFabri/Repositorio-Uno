@@ -16,4 +16,6 @@
 
 **Es uno de los juegos mas famosos**
 
+**Cuenta con mas de 100 millones de usuario**
+
 
