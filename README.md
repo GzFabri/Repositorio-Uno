@@ -13,3 +13,7 @@
 **el ganador obtiene experiencia**
 
 **Y premios de RP**
+
+**Es uno de los juegos mas famosos**
+
+
