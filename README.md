@@ -4,7 +4,7 @@
 
 **League of Legend**
 
-**Es es un juego MOBA por su siglas multiplayer online battle arena**
+**Es un juego MOBA por su siglas multiplayer online battle arena**
 
 **Se juega 5 vs 5**
 
