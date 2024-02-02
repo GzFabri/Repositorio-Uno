@@ -8,3 +8,5 @@
 
 **Se juega 5 vs 5**
 
+**el objetivo es destruir el nexo enemigo**
+
