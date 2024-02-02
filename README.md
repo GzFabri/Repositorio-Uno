@@ -6,3 +6,5 @@
 
 **Este es un juego MOBA por su siglas multiplayer online battle arena**
 
+**Se juega 5 vs 5**
+
