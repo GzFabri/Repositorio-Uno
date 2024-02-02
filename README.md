@@ -18,4 +18,6 @@
 
 **Cuenta con mas de 100 millones de usuario**
 
+**Es desarrollado por RIOT GAMES**
+
 
